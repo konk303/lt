@@ -1,0 +1,2 @@
+# prevent markdown-mode live preview file being committed.
+*.html
